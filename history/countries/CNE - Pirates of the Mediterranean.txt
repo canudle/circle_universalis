@@ -1,0 +1,33 @@
+government = republic
+add_government_reform = pirate_republic_reform
+mercantilism = 25 # If not set or commented out, it defaults to 10 (some government types default at 25)
+technology_group = western
+unit_type = western
+primary_culture = maltese
+religion = catholic
+capital = 126 # Malta # Writing the name of the province is not necessary but good practice for your sanity
+
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -1
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = 1
+}
+
+1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
+	monarch = {
+		name = "Canoe"
+		dynasty = "von Canoe"
+		birth_date = 1420.3.15
+		adm = 5
+		dip = 4
+		mil = 6
+		claim = 100 #Starting legitimacy
+		female = no #Optional, if not set ruler is male
+	}
+		clear_scripted_personalities = yes
+		add_ruler_personality = legendary_pirate_personality
+}

@@ -1,0 +1,31 @@
+government = monarchy
+add_government_reform = fuedal_nobility
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = pomeranian
+religion = catholic
+capital = 1858 # Stettin
+
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -1
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = 1
+}
+
+1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
+	monarch = {
+		name = "Mc"
+		dynasty = "Ruler"
+		birth_date = 1418.11.22
+		adm = 0
+		dip = 0
+		mil = 0
+		claim = 100 #Starting legitimacy
+		female = no #Optional, if not set ruler is male
+	}
+}

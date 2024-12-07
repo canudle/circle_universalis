@@ -1,0 +1,31 @@
+government = republic
+add_government_reform = duck_parliamentary_republic_government
+government_rank = 1
+technology_group = north_american
+unit_type = north_american
+primary_culture = castillian
+religion = catholic
+capital = 2021 # Miwok # Writing the name of the province is not necessary but good practice for your sanity
+
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -1
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = 1
+}
+
+1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
+	monarch = {
+		name = "Joaquin"
+		dynasty = "de Pato"
+		birth_date = 1418.11.22
+		adm = 2
+		dip = 1
+		mil = 4
+		claim = 100 #Starting legitimacy
+		female = no #Optional, if not set ruler is male
+	}
+}

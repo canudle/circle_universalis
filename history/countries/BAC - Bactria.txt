@@ -1,0 +1,31 @@
+government = monarchy
+add_government_reform = bactria_reform
+technology_group = muslim
+unit_type = muslim
+government_rank = 2
+primary_culture = greek
+religion = zoroastrian
+capital =  451 # Kabul 
+
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -1
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = 1
+}
+
+1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
+	monarch = {
+		name = "Aeropos"
+		dynasty = "Euthydemid"
+		birth_date = 1414.5.11
+		adm = 3
+		dip = 3
+		mil = 5
+		claim = 100 #Starting legitimacy
+		female = no #Optional, if not set ruler is male
+	}
+}

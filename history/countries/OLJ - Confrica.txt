@@ -1,0 +1,33 @@
+government = republic
+add_government_reform = ambrosian_republic
+technology_group = east_african
+unit_type = east_african
+government_rank = 1
+primary_culture = swahili
+religion = confucianism
+capital =  1196 # Kilwa 
+
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -1
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = 1
+}
+
+1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
+	monarch = {
+		name = "The Kon"
+		dynasty = "of Con"
+		birth_date = 1424.1.22
+		adm = 4
+		dip = 4
+		mil = 4
+		claim = 100 #Starting legitimacy
+		female = no #Optional, if not set ruler is male
+	}
+		clear_scripted_personalities = yes
+		add_ruler_personality = inspiring_leader_personality
+}

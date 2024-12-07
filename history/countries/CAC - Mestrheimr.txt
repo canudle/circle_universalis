@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = fuedal_nobility
+technology_group = north_american
+unit_type = north_american
+primary_culture = norse
+religion = norse_pagan_reformed
+capital = 1000 # Cree # Writing the name of the province is not necessary but good practice for your sanity
+
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -1
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = 1
+}
+
+1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
+	monarch = {
+		name = "Erik"
+		dynasty = "Eriksen"
+		birth_date = 1411.1.1
+		adm = 5
+		dip = 4
+		mil = 5
+		claim = 100 #Starting legitimacy
+		female = no #Optional, if not set ruler is male
+	}
+}
