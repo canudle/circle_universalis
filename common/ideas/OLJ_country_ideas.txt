@@ -1,0 +1,42 @@
+OLJ_ideas = {
+	start = {
+		same_culture_advisor_cost = -0.15
+		ae_impact = -0.10
+	}
+	
+	bonus = {
+		leader_land_fire = 1	
+	}	
+	trigger = {
+		tag = OLJ
+	}
+	free = yes
+
+	olj_idea_1 = {
+		horde_unity = 0.5
+		legitimacy = 0.5
+		devotion = 0.5
+		republican_tradition = 0.15
+		meritocracy = 0.5
+		global_unrest = -1
+	}
+	olj_idea_2 = {
+		defensiveness = 0.10
+	}
+	olj_idea_3 = {
+		core_creation = -0.10	
+	}
+	olj_idea_4 = {
+		warscore_cost_vs_other_religion = -0.10
+		yearly_harmony = 0.10	
+	}
+	olj_idea_5 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	olj_idea_6 = {
+		discipline = 0.05
+	}
+	olj_idea_7 = {
+		culture_conversion_cost = -0.15	
+	}
+}

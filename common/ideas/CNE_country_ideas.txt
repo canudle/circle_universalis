@@ -1,0 +1,41 @@
+CNE_ideas = {
+	start = {
+		privateer_efficiency = 0.15
+		coast_raid_range = 1
+	}
+	
+	bonus = {
+		global_trade_power = 0.10
+	}	
+	trigger = {
+		tag = CNE
+	}
+	free = yes
+
+	cne_idea_1 = {
+		build_cost = -0.10
+		inflation_reduction = 0.10
+	}
+	cne_idea_2 = {
+		merc_maintenance_modifier = -0.10
+		mercenary_manpower = 0.25
+	}
+	cne_idea_3 = {
+		trade_efficiency = 0.10
+	}
+	cne_idea_4 = {
+		has_man_of_war = yes
+		heavy_ship_cost = -0.05
+	}
+	cne_idea_5 = {
+		naval_morale = 0.15
+		own_coast_naval_combat_bonus = 1
+	}
+	cne_idea_6 = {
+		sailors_recovery_speed	= 0.20
+		global_sailors_modifier = 0.20
+	}
+	cne_idea_7 = {
+		discipline = 0.05
+	}
+}

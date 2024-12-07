@@ -1,0 +1,37 @@
+CAC_ideas = {
+	start = {
+		monarch_lifespan = 0.20
+		development_cost_in_primary_culture = -0.10
+	}
+	
+	bonus = {
+		culture_conversion_cost	= -0.25
+	}	
+	trigger = {
+		tag = CAC
+	}
+	free = yes
+
+	cac_idea_1 = {
+		embracement_cost = -0.1
+	}
+	cac_idea_2 = {
+		land_morale = 0.10
+	}
+	cac_idea_3 = {
+		warscore_cost_vs_other_religion = -0.10
+		global_missionary_strength = 0.02
+	}
+	cac_idea_4 = {
+		discipline = 0.05
+	}
+	cac_idea_5 = {
+		naval_forcelimit_modifier = 0.15
+	}
+	cac_idea_6 = {
+		colonist = 2
+	}
+	cac_idea_7 = {
+		production_efficiency = 0.1
+	}
+}

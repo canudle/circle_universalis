@@ -1,0 +1,6 @@
+CNE	= "countries/CNE.txt"
+CAC = "countries/CAC.txt"
+OLJ = "countries/OLJ.txt"
+BAC = "countries/BAC.txt"
+DUC = "countries/DUC.txt"
+MCG = "countries/MCG.txt"

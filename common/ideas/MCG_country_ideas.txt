@@ -1,0 +1,43 @@
+MCG_ideas = {
+	start = {
+		hostile_attrition = 1	
+		cavalry_power = 0.10
+	}
+	
+	bonus = {
+		leader_land_manuever = 1	
+	}	
+	trigger = {
+		tag = MCG
+	}
+	free = yes
+
+	duc_idea_1 = {
+		global_missionary_strength = 0.02
+		global_manpower_modifier = 0.10
+	}
+	duc_idea_2 = {
+		movement_speed = 0.15
+	}
+	duc_idea_3 = {
+		defensiveness = 0.10
+		land_attrition = -0.15
+	}
+	duc_idea_4 = {
+		horde_unity = 1
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.5
+		meritocracy = 1
+	}
+	duc_idea_5 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	duc_idea_6 = {
+		local_development_cost_modifier	= -0.10
+		global_colonial_growth	= 25
+	}
+	duc_idea_7 = {
+		global_prov_trade_power_modifier = 0.1	
+	}
+}

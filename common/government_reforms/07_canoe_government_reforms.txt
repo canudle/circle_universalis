@@ -1,0 +1,82 @@
+duck_parliamentary_republic_government = {
+    icon = "house_of_lords"
+    lock_level_when_selected = yes
+    allow_normal_conversion = no
+    potential = {
+        has_dlc = "Domination"
+        OR = {
+            tag = DUC
+        }
+    }
+    nation_designer_cost = 20
+    nation_designer_trigger = {
+        OR = {
+            culture_group = british
+            culture = anglois
+        }
+    }
+    valid_for_nation_designer = yes
+    modifiers = {
+        num_of_parliament_issues = 1
+        republican_tradition = 0.25
+        max_absolutism = 5
+    }
+    duration = 5
+    custom_attributes = {
+        enables_plutocratic_idea_group = yes
+        enables_aristocratic_idea_group = no
+    }
+    
+    conditional = {
+        allow = {
+            has_dlc = "Common Sense"
+            NOT = { has_dlc = "Domination" }
+        }
+        has_parliament = yes
+    }
+    conditional = {
+        allow = {
+            has_dlc = "Domination"
+        }
+        has_parliament = yes
+        custom_attributes = {
+            english_parliament = yes
+        }
+    }
+}
+
+bactria_reform = {
+	icon = "byzantine_rule"
+	allow_normal_conversion = yes
+	lock_level_when_selected = yes
+	potential = {
+		OR = {
+			tag = BAC
+		}
+	}
+	nation_designer_cost = 30
+	valid_for_nation_designer = yes
+	modifiers = {
+		global_autonomy = -0.05
+		culture_conversion_cost = -0.1
+		years_of_nationalism = -5
+		yearly_absolutism = 1
+	}
+	
+	conditional = {
+		allow = { 
+			OR = {
+				has_dlc = "Common Sense"
+				has_dlc = "Domination"
+			}
+			NOT = { has_dlc = "King of Kings" }
+		}
+		has_parliament = yes
+	}
+	conditional = {
+		allow = { has_dlc = "King of Kings" }
+		custom_attributes = {
+			enables_pronoias = yes 
+		}
+	}
+}

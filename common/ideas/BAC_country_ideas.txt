@@ -1,0 +1,37 @@
+BAC_ideas = {
+	start = {
+		hostile_attrition = 1	
+		advisor_cost = -0.10	
+	}
+	
+	bonus = {
+		global_institution_spread = 0.10
+	}	
+	trigger = {
+		tag = BAC
+	}
+	free = yes
+
+	bac_idea_1 = {
+		defensiveness = 0.10
+	}
+	bac_idea_2 = {
+		infantry_power = 0.10	
+		leader_land_shock = 1
+	}
+	bac_idea_3 = {
+		trade_efficiency = 0.10
+	}
+	bac_idea_4 = {
+		idea_cost = -0.1
+	}
+	bac_idea_5 = {
+		development_cost = -0.1
+	}
+	bac_idea_6 = {
+		core_creation = -0.1	
+	}
+	bac_idea_7 = {
+		discipline = 0.05
+	}
+}
