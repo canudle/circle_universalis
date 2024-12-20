@@ -1,0 +1,94 @@
+namespace = owl_is_gay
+
+# Second age
+country_event = {
+    id = owl_is_gay.2
+    title = owl_is_gay.2.t
+    desc = owl_is_gay.2.d
+    picture = SYNTHETICS_eventPicture
+    
+    hidden = yes
+    
+    trigger = {
+        tag = OWL
+        current_age = age_of_reformation
+        NOT = { has_country_flag = fuck_owl_2 }
+    }
+    
+    mean_time_to_happen = {
+        days = 30
+    }
+    immediate = {
+        set_country_flag = fuck_owl_2
+        remove_country_modifier = owl_modifier_age_1
+        add_country_modifier = {
+            name = owl_modifier_age_2
+            duration = -1
+        }
+    }
+    option = { 
+        name = "owl_is_gay.2.a"
+    }
+}
+
+# Third age
+country_event = {
+    id = owl_is_gay.3
+    title = owl_is_gay.3.t
+    desc = owl_is_gay.3.d
+    picture = SYNTHETICS_eventPicture
+    
+    hidden = yes
+    
+    trigger = {
+        tag = OWL
+        current_age = age_of_absolutism
+        NOT = { has_country_flag = fuck_owl_3 }
+    }
+    
+    mean_time_to_happen = {
+        days = 30
+    }
+    immediate = {
+        set_country_flag = fuck_owl_3
+        remove_country_modifier = owl_modifier_age_2
+        add_country_modifier = {
+            name = owl_modifier_age_3
+            duration = -1
+        }
+    }
+    option = { 
+        name = "owl_is_gay.3.a"
+    }
+}
+
+# Fourth age
+country_event = {
+    id = owl_is_gay.4
+    title = owl_is_gay.4.t
+    desc = owl_is_gay.4.d
+    picture = SYNTHETICS_eventPicture
+    
+    hidden = yes
+    
+    trigger = {
+        tag = OWL
+        current_age = age_of_revolutions
+        NOT = { has_country_flag = fuck_owl_4 }
+    }
+    
+    mean_time_to_happen = {
+        days = 30
+    }
+    immediate = {
+        set_country_flag = fuck_owl_4
+        remove_country_modifier = owl_modifier_age_3
+        add_country_modifier = {
+            name = owl_modifier_age_4
+            duration = -1
+        }
+    }
+    option = { 
+        name = "owl_is_gay.4.a"
+    }
+}

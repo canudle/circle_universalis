@@ -1,0 +1,83 @@
+namespace = mod_common_events
+
+# cuckoldry event
+country_event_1 = {
+    id = mod_common_events.1
+    title = mod_common_events.1.t
+    desc = mod_common_events.1.d
+    picture = CONSORT_DOING_BADLY_eventPicture
+    
+    
+    trigger = {
+        ai = no
+		government = monarchy
+		NOT = { has_reform = elective_monarchy }
+		NOT = { has_reform = polish_elective_monarchy }
+		NOT = { has_government_attribute = has_harem_events }
+		NOT = { has_reform = mamluk_government }
+		has_government_attribute = heir
+		has_heir = no
+		has_regency = no
+		is_female = no
+		is_lesser_in_union = no
+		has_consort = yes
+    }
+    
+    mean_time_to_happen = {
+        months = 400
+			
+			modifier = {
+				factor = 2
+				ruler_age = 60
+			}
+    }
+    
+    option = { 
+        name = "mod_common_events.1.a"
+		define_heir = {
+			male = yes
+			dynasty = ROOT
+			name = Canoe
+			claim = 20
+			adm = 4
+		}
+		add_prestige = -10
+    }
+	option = {
+		name = "mod_common_events.1.b"
+		define_heir = {
+			male = no
+			dynaster = ROOT
+			mil = 1
+			dip = 4
+			claim = 80
+			heir_age = 14
+		}
+		add_prestige = 10
+		add_legitimacy = 10
+	}
+}
+
+# canoe child so good uoh
+country_event_2 = {
+    id = mod_common_events.2
+    title = mod_common_events.2.t
+    desc = mod_common_events.2.d
+    picture = GOOD_WITH_MONARCH_eventPicture
+    
+    
+    trigger = {
+       has_country_flag = canoe_heir
+    }
+	
+	mean_time_to_happen = {
+        months = 60
+    }
+	
+	option = {
+		name = "mod_common_events.2.a"
+		change_heir_adm = 1
+		change_heir_dip = 1	
+		change_heir_mil = 1	
+	}
+}
