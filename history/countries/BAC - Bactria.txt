@@ -28,4 +28,6 @@ change_estate_land_share = {
 		claim = 100 #Starting legitimacy
 		female = no #Optional, if not set ruler is male
 	}
+		clear_scripted_personalities = yes
+		add_ruler_personality = inspiring_leader_personality
 }

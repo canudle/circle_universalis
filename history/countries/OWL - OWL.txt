@@ -1,11 +1,11 @@
 government = monarchy
-add_government_reform = prussian_monarchy
-government_rank = 1
+add_government_reform = fuedal_nobility
 technology_group = western
 unit_type = western
-primary_culture = pommeranian
-religion = catholic
-capital = 1858 # Stettin
+government_rank = 1
+primary_culture = russian
+religion = orthodox
+capital =  295 # Moskva
 
 
 change_estate_land_share = {
@@ -19,15 +19,13 @@ change_estate_land_share = {
 
 1444.1.1 = { #Date in which the text below is valid. Make sure it comes after all birth_dates
 	monarch = {
-		name = "McGawel I"
-		dynasty = "von McMuller"
-		birth_date = 1417.1.8
-		adm = 6
-		dip = 4
-		mil = 6
+		name = "Owl"
+		dynasty = "Gifter"
+		birth_date = 1424.1.22
+		adm = 5
+		dip = 3
+		mil = 4
 		claim = 100 #Starting legitimacy
 		female = no #Optional, if not set ruler is male
 	}
-		clear_scripted_personalities = yes
-		add_ruler_personality = careful_personality
 }

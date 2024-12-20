@@ -2,7 +2,7 @@
 
 owner = MCG
 controller = MCG
-#add_core = MCG
+add_core = MCG
 culture = pommeranian
 religion = catholic
 hre = yes
