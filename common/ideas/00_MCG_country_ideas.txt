@@ -1,0 +1,37 @@
+MCG_ideas = {
+	start = {
+		infantry_power = 0.10
+		ae_impact = -0.15
+	}
+	
+	bonus = {
+		land_maintenance_modifier = -0.2	
+	}	
+	trigger = {
+		tag = MCG
+	}
+	free = yes
+	
+	mcg_idea_1 = {
+		governing_capacity_modifier = 0.2
+	}
+	mcg_idea_2 = {
+		build_cost = -0.10
+	}
+	mcg_idea_3 = {
+		reduced_liberty_desire_on_same_continent = 20	
+	}
+	mcg_idea_4 = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	mcg_idea_5 = {
+		discipline = 0.05
+	}
+	mcg_idea_6 = {
+		production_efficiency = 0.10
+	}
+	mcg_idea_7 = {
+		diplomatic_reputation = 1
+		diplomatic_upkeep = 1	
+	}
+}

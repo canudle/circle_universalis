@@ -1,0 +1,171 @@
+bactria_reform = {
+	rank = {
+		1 = BAC_PRINCEDOM
+		2 = BAC_KINGDOM
+		3 = BAC_EMPIRE
+	}
+
+	ruler_male = {
+		1 = BAC_DESPOT
+		2 = BAC_AUTOKRATOR
+		3 = BAC_BASILEUS
+	}
+
+	ruler_female = {
+		1 = BAC_DESPOTISSA
+		2 = BAC_AUTOKRATEIRA
+		3 = BAC_BASILISSA
+	}
+
+	consort_male  = {
+		1 = BAC_DESPOTISSA
+		2 = BAC_PRINCE_CONSORT
+		3 = BAC_PRINCE_CONSORT
+	}
+
+	consort_female = {
+		1 = BAC_DESPOTISSA
+		2 = BAC_AUTOKRATEIRA
+		3 = BAC_BASILISSA
+	}
+
+	heir_male = {
+		1 = BAC_PRINCE
+		2 = BAC_DESPOT
+		3 = BAC_SYMBASILEUS
+	}
+
+	heir_female = {
+		1 = BAC_PRINCESS
+		2 = BAC_DESPOTISSA
+		3 = BAC_SYMBASILISSA
+	}
+
+	trigger = {
+		tag = BAC
+		government = monarchy
+	}
+}
+
+duck_parliamentary_republic_government = {
+	rank = {
+		1 = DUCHY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = PRESIDENTE
+		2 = EL_PRESIDENTE
+		3 = GRAND_PRESIDENTE
+	}
+
+	ruler_female = {
+		1 = PRESIDENTE
+		2 = EL_PRESIDENTE
+		3 = GRANDE_PRESIDENTE
+	}
+
+	consort_male  = {
+		1 = PRINCE_CONSORT
+		2 = PRINCE_CONSORT
+		3 = PRINCE_CONSORT
+	}
+
+	consort_female = {
+		1 = CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	trigger = {
+		tag = DUC
+		government = republic
+	}
+}
+
+prussian_monarchy = {
+	rank = {
+		1 = MCDUCHY
+		2 = MCKINGDOM
+		3 = MCEMPIRE
+	}
+
+	ruler_male = {
+		1 = MCDUKE
+		2 = MCKING
+		3 = MCEMPEROR
+	}
+
+	ruler_female = {
+		1 = MCDUCHESS
+		2 = MCQUEEN
+		3 = MCEMPRESS
+	}
+
+	consort_male  = {
+		1 = MCPRINCE_CONSORT
+		2 = MCPRINCE_CONSORT
+		3 = MCPRINCE_CONSORT
+	}
+
+	consort_female = {
+		1 = MCCONSORT
+		2 = MCQUEEN_CONSORT
+		3 = MCEMPRESS_CONSORT
+	}
+
+	heir_male = {
+		1 = MCHEIR
+		2 = MCHEIR
+		3 = MCHEIR
+	}
+
+	heir_female = {
+		1 = MCHEIR_fem
+		2 = MCHEIR_fem
+		3 = MCHEIR_fem
+	}
+
+	trigger = {
+		tag = MCG
+		government = monarchy
+	}
+}
+
+ambrosian_republic = {
+	rank = {
+		1 = DUCHY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = KON
+		2 = KONCAPS
+		3 = THE_KON
+	}
+
+	ruler_female = {
+		1 = ILLEGAL
+		2 = ILLEGAL
+		3 = ILLEGAL
+	}
+
+	consort_male  = {
+		1 = PRINCE_CONSORT
+		2 = PRINCE_CONSORT
+		3 = PRINCE_CONSORT
+	}
+
+	consort_female = {
+		1 = CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	trigger = {
+		tag = OLJ
+		government = republic
+	}
+}

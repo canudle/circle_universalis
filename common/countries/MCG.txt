@@ -1,8 +1,56 @@
 graphical_culture = westerngfx
 color = { 
-	7  109  7
+	27 128 26
 }
-monarch_names = { 
+monarch_names = {
+	"McBoguslaw #9" = 100
+	"McBarnim #10" = 20
+	"McOta #3" = 20
+	"McEryk #1" = 20
+	"McFilip #1" = 20
+	"McFranciszek #0" = 20
+	"McJan Fryderyk #0" = 20
+	"McWratislaw #5" = 20
+	"McGeorg #0" = 15
+	"McUlrich #0" = 15
+	"McKazimierz #5" = 10
+	"McErnest Ludwik #0" = 10
+	"McJan Ernest #0" = 10
+	"McAlbrecht #0" = 0
+	"McArnt #0" = 0
+	"McAugust #0" = 0
+	"McBernhard #0" = 0
+	"McBodo #0" = 0
+	"McCarl #0" = 0
+	"McEmil #0" = 0
+	"McErnest #0" = 0
+	"McFritz #0" = 0
+	"McFryderyk #0" = 0
+	"McGerhard #0" = 0
+	"McGustav #0" = 0
+	"McHarald #0" = 0
+	"McHendryk #0" = 0
+	"McHerbert #0" = 0
+	"McHermann #0" = 0
+	"McJan #0" = 0
+	"McJanusz #0" = 0
+	"McJochem #0" = 0
+	"McMartin #0" = 0
+	"McMaximiliam #0" = 0
+	"McPaul #0" = 0
+	"McReinhold #0" = 0
+	"McRichard #0" = 0
+	"McSiegfried #0" = 0
+	"McWalter #0" = 0
+	"McWilhelm #0" = 0
+	"McValentin #0" = 0
+
+	"McGabriela #0" = -1
+	"McHelena #0" = -1
+	"McJanina #0" = -1
+	"McElisabeth #0" = -1
+	"McMagdalena #0" = -1
+	"McSophia #0" = -1
 }
 leader_names = { 
 }

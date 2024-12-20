@@ -1,0 +1,38 @@
+OWL_ideas = {
+	start = {
+		infantry_power = 0.15
+		land_morale = 0.10
+	}
+	
+	bonus = {
+		land_maintenance_modifier = -0.10	
+	}	
+	trigger = {
+		tag = OWL
+	}
+	free = yes
+
+	owl_idea_1 = {
+		core_creation = -0.2
+	}
+	owl_idea_2 = {
+		prestige = 1
+		ae_impact = -0.20	
+	}
+	owl_idea_3 = {
+		global_unrest = -2
+		defensiveness = .25
+	}
+	owl_idea_4 = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	owl_idea_5 = {
+		fire_damage_received = -0.10	
+	}
+	owl_idea_6 = {
+		improve_relation_modifier = 0.1	
+	}
+	owl_idea_7 = {
+		manpower_recovery_speed = 0.10	
+	}
+}

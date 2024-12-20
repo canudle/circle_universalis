@@ -1,0 +1,49 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+owl_modifier_age_1 = {
+	land_morale = 0.10
+	shock_damage = 0.15
+	core_creation = -0.25
+	global_unrest = -1
+	years_of_nationalism = -5
+}
+
+owl_modifier_age_2 = {
+	land_morale = 0.10
+	siege_ability = 0.15
+	discipline = 0.05
+	leader_land_fire = 2
+	leader_land_maneuver = 2
+	advisor_cost = -0.25
+	global_unrest = -2
+	no_stability_loss_on_monarch_death = yes
+	warscore_cost_vs_other_religion = -0.25
+}
+
+owl_modifier_age_3 = {
+	yearly_absolutism = 0.15
+	max_absolutism = 20
+	max_absolutism_effect = 0.15
+	global_unrest = -3
+	global_tax_modifier = 0.20
+	production_efficiency = 0.20
+	state_maintenance_modifier = -0.50
+	build_cost = -0.25
+	build_time = -0.25
+	administrative_efficiency = 0.05
+}
+
+owl_modifier_age_4 = {
+	yearly_absolutism = 0.15
+	max_absolutism = 20
+	max_absolutism_effect = 0.15
+	global_unrest = -3
+	administrative_efficiency = 0.1
+	free_policy = 1
+	monarch_admin_power = 1
+	monarch_diplomatic_power = 1
+	monarch_military_power = 1
+	all_power_cost = -0.05
+}
