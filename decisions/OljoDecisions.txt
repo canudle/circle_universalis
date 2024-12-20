@@ -1,0 +1,26 @@
+country_decisions = {
+
+	oljo_blackmail = {
+		major = yes
+		potential = {
+			tag = OLJ
+			AND = {
+				NOT = { has_country_flag = oljo_blackmail_flag }
+			}
+		}
+		
+		allow = {
+			is_at_war = no
+			treasury = 1
+			}
+			
+		effect = {
+			add_manpower = 1
+			add_treasury = -1
+			set_country_flag = oljo_blackmail_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
