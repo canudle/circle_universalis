@@ -1,0 +1,36 @@
+﻿l_english:
+
+ # info
+ OWL: "Owlschwitz"
+ OWL_ADJ: "Owlschwitzian"
+ 
+ # mcideas
+ OWL_idea:0 "Owl Country Ideas"
+ OWL_idea_start:0 "Owler Traditions"
+ OWL_idea_bonus:0 "Owler Ambition"
+ owl_idea_1:0 "Placeholder"
+ owl_idea_1_desc:0 "Placeholder Description"
+ owl_idea_2:0 "Placeholder"
+ owl_idea_2_desc:0 "Placeholder Description"
+ owl_idea_3:0 "Placeholder"
+ owl_idea_3_desc:0 "Placeholder Description"
+ owl_idea_4:0 "Placeholder"
+ owl_idea_4_desc:0 "Placeholder Description"
+ owl_idea_5:0 "Placeholder"
+ owl_idea_5_desc:0 "Placeholder Description"
+ owl_idea_6:0 "Placeholder"
+ owl_idea_6_desc:0 "Placeholder Description"
+ owl_idea_7:0 "Placeholder"
+ owl_idea_7_desc:0 "Placeholder Description"
+ 
+ # owl government
+ 
+ # decisions
+ owl_discovery_title: "Start of a New Age"
+ owl_discovery_desc: "You're Owl, so you naturally get this buff for being the worst player in the game. Everyone's gonna be so surprised seeing you be tis good!"
+ 
+ # modifiers
+ owl_modifier_age_1: "Age of Discovery Buffs"
+ owl_modifier_age_2: "Age of Reformation Buffs"
+ owl_modifier_age_3: "Age of Absolutism Buffs"
+ owl_modifier_age_4: "Age of Revolution Buffs"

@@ -1,0 +1,34 @@
+﻿l_english:
+
+ # countries
+ OLJ: "Confrica"
+ OLJ_ADJ: "Confrican"
+ 
+ # oljo ideas
+ OLJ_ideas:0 "Confrican Ideas"
+ OLJ_ideas_start:0 "Confrican Traditions"
+ OLJ_ideas_bonus:0 "Confrican Ambition"
+ olj_idea_1:0 "Placeholder"
+ olj_idea_1_desc:0 "Placeholder Description"
+ olj_idea_2:0 "Placeholder"
+ olj_idea_2_desc:0 "Placeholder Description"
+ olj_idea_3:0 "Placeholder"
+ olj_idea_3_desc:0 "Placeholder Description"
+ olj_idea_4:0 "Placeholder"
+ olj_idea_4_desc:0 "Placeholder Description"
+ olj_idea_5:0 "Placeholder"
+ olj_idea_5_desc:0 "Placeholder Description"
+ olj_idea_6:0 "Placeholder"
+ olj_idea_6_desc:0 "Placeholder Description"
+ olj_idea_7:0 "Placeholder"
+ olj_idea_7_desc:0 "Placeholder Description"
+ 
+ # government stuff
+ ILLEGAL:0 "Illegal"
+ KON:0 "Kon"
+ KONCAPS:0 "KON"
+ THE_KON:0 "THE KON"
+ 
+ # decisions
+ oljo_blackmail_title: "Oljo Blackmail"
+ oljo_blackmail_desc: "Oljo has managed to blackmail the creator of the universe. Fuck you."

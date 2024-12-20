@@ -1,0 +1,41 @@
+﻿l_english:
+
+ # info
+ MCG: "McCountry"
+ MCG_ADJ: "McPeople"
+ 
+ # mcideas
+ MCG_ideas:0 "McCountry Ideas"
+ MCG_ideas_start:0 "McTraditions"
+ MCG_ideas_bonus:0 "McAmbition"
+ mcg_idea_1:0 "Placeholder"
+ mcg_idea_1_desc:0 "Placeholder Description"
+ mcg_idea_2:0 "Placeholder"
+ mcg_idea_2_desc:0 "Placeholder Description"
+ mcg_idea_3:0 "Placeholder"
+ mcg_idea_3_desc:0 "Placeholder Description"
+ mcg_idea_4:0 "Placeholder"
+ mcg_idea_4_desc:0 "Placeholder Description"
+ mcg_idea_5:0 "Placeholder"
+ mcg_idea_5_desc:0 "Placeholder Description"
+ mcg_idea_6:0 "Placeholder"
+ mcg_idea_6_desc:0 "Placeholder Description"
+ mcg_idea_7:0 "Placeholder"
+ mcg_idea_7_desc:0 "Placeholder Description"
+ 
+ # mcgovernment
+ prussian_monarchy:0 "McPrussian Monarchy"
+ prussian_monarchy_desc:0 "A McGovernmental form under a monarch, which can more be described as an army with a state, than a state with an army."
+ MCDUCHY:0 "McDuchy"
+ MCKINGDOM:0 "McKingdom"
+ MCEMPIRE:0 "McEmpire"
+ MCDUKE:0 "McDuke"
+ MCKING:0 "McKing"
+ MCEMPEROR:0 "McEmperor"
+ MCDUCHESS:0 "McDuchess"
+ MCQUEEN:0 "McQueen"
+ MCEMPRESS:0 "McEmpress"
+ MCPRINCE_CONSORT:0 "McHimbo"
+ MCCONSORT:0 "McConsort"
+ MCHEIR:0 "McHeir"
+ MCHEIR_fem:0 "McHeiress"

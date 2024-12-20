@@ -1,0 +1,28 @@
+﻿l_english:
+
+ # info
+ CAC: "Mestrheimr"
+ CAC_ADJ: "Mestrheimran"
+ 
+ # cactus ideas
+ CAC_ideas:0 "Nordic Ideas"
+ CAC_ideas_start:0 "Nordic Traditions"
+ CAC_ideas_bonus:0 "Nordic Ambition"
+ cac_idea_1:0 "Placeholder"
+ cac_idea_1_desc:0 "Placeholder Description"
+ cac_idea_2:0 "Placeholder"
+ cac_idea_2_desc:0 "Placeholder Description"
+ cac_idea_3:0 "Placeholder"
+ cac_idea_3_desc:0 "Placeholder Description"
+ cac_idea_4:0 "Placeholder"
+ cac_idea_4_desc:0 "Placeholder Description"
+ cac_idea_5:0 "Placeholder"
+ cac_idea_5_desc:0 "Placeholder Description"
+ cac_idea_6:0 "Placeholder"
+ cac_idea_6_desc:0 "Placeholder Description"
+ cac_idea_7:0 "Placeholder"
+ cac_idea_7_desc:0 "Placeholder Description"
+ 
+ # great project
+ norse_church_tt:0 "The Religion of §Y[Root.GetName]§! is either §YNorse§!, and is the State or the Syncretic Religion of the owner."
+ norse_church:0 "Temple of Uppsala"

@@ -1,0 +1,24 @@
+﻿l_english:
+
+ # info
+ CNE: "Marauders of Mdina"
+ CNE_ADJ: "Maltese"
+ 
+ # canoe ideas
+ CNE_ideas:0 "Marauder Ideas"
+ CNE_ideas_start:0 "Marauder Traditions"
+ CNE_ideas_bonus:0 "Marauder Ambition"
+ cne_idea_1:0 "Sicillian Expiditions "
+ cne_idea_1_desc:0 "In 1224, Frederick II sent an expedition against Malta to establish control and to prevent the Muslim population from rising against the Kingdom of Sicily. After the conquest, Fredrick II sent supplies to help the christian expidition to rebuild."
+ cne_idea_2:0 "Italian Condottieris"
+ cne_idea_2_desc:0 "The strife between the city states in Italy have increased the number of mercanary companies in the region. As our population is small but our coffers large, we are able to strike up deals with the companies in the area in our time of need."
+ cne_idea_3:0 "Mediterranean Control"
+ cne_idea_3_desc:0 "Due to our strategic location in the middle of the Mediterranean, we control all trade that flows in and out of the area, this control has allowed our merchants to be more sucessful."
+ cne_idea_4:0 "English References"
+ cne_idea_4_desc:0 "Our original expedition was made up of several different peoples, but the most prominent being English seamen. Because of this, they have helped us build ships of the highest quality"
+ cne_idea_5:0 "Naval Dominance"
+ cne_idea_5_desc:0 "Due to our strategic position on the islands of the Mediterranean, we have found ourself relying on our ships heavily. Because of this, we're expected to have naval domination in the area, and we hope to meet all expectations."
+ cne_idea_6:0 "Rite of Passage"
+ cne_idea_6_desc:0 "A life on the seas is expected for any young man going into adulthood in our glorious federation. To serve in our navy is to become a man."
+ cne_idea_7:0 "Rigorous Training"
+ cne_idea_7_desc:0 "Our strict and disciplined training has whipped our forces into an army the mainlanders should fear. Glory to the Marauders."

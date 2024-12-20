@@ -1,0 +1,41 @@
+﻿l_english:
+
+ # info
+ BAC: "Bactria"
+ BAC_ADJ: "Bactrian"
+
+ # greg ideas
+ BAC_ideas:0 "Bactrian Ideas"
+ BAC_ideas_start:0 "Bactrian Traditions"
+ BAC_ideas_bonus:0 "Bactrian Ambition"
+ bac_idea_1:0 "Survival of the Fittest"
+ bac_idea_1_desc:0 "In the centuries since Alexander carved out his magnificent empire, our people have struggled to survive and maintain our hellenic roots for over a thousand years. Nevertheless, while we may have diverged from our brothers in the Mediterranean, our identity as a people remains as strong as ever, and we will fight tooth and nail to maintain it, crushing any who oppose us."
+ bac_idea_2:0 "Restoring Our Kingdom"
+ bac_idea_2_desc:0 "Ever since the rise of the Parthians, our realm has been used as a mere buffer state against the nomadic steppe peoples of the north, and our borders have gradually shrunk to something insignificant. It is our duty to finally take our fate into our own hands and restore the glory of our kingdom, for all of Bactria"
+ bac_idea_3:0 "The Silk Road Lifeline"
+ bac_idea_3_desc:0 "The Silk Road has served as a vital trade route between Europe and Asia for hundreds of years, and our realm lies directly on a major nexus - something we have exploited for generations. Bactrian merchants have proven themselves to be cunning, thrifty, and more importantly; profitable. It is vital we continue to use our knowledge of the silk road to expand our interests in Persia, India, and beyond."
+ bac_idea_4:0 "Hellenic Ingenuity"
+ bac_idea_4_desc:0 "Greece was home to some of the greatest philosophical minds in all of human history - from Plato to Aristotle, Heraclitus to Diogenes, all of the greatest minds out of the Aegean have shaped our understanding of the world in the millennia since. They are our heritage, our roots, and it would be a shame not to use our greatest minds as our ancestors once did."
+ bac_idea_5:0 "Building more Alexandrias"
+ bac_idea_5_desc:0 "Alexander the Great carved his blade through thousands, and in his wake he built many cities across his empire, many named after him. A testament to his strength and willpower, refusing to be forgotten in the annals of history. Bactrian architecture has remained distinct in the centuries since his passing, but his legacy will never be forgotten - as we expand our borders, we should expand his legacy by naming our new settlements in his honour."
+ bac_idea_6:0 "Bactria, Eternal"
+ bac_idea_6_desc:0 "The time of our reconquest is upon us. We have thrown off the shackles of our masters, destroyed the armies of our enemies, and continue to grow our might. We are no longer just the heirs of Alexander, or his empire - we are something greater. We are Bactrians, we have carved our own path in history, and will continue to do so for centuries to come. As long as our language is spoken, our gods worshipped, Bactria will never fall."
+ bac_idea_7:0 "Macedonia of the East"
+ bac_idea_7_desc:0 "The Phalanx remained a beast of war in its own right for centuries after Alexander the Great died and his empire collapsed. Greek armies were feared across the world well before him, and that must be no exception. If we are to restore our empire, we must bring back our once glorious strength and military might. We are the heirs of Macedonia, and we will not fail."
+ 
+ # government stuff
+ bactria_reform:0 "Indo-Greek Administration"
+ bactria_reform_desc:0 "The remnants of the Kingdom established by Alexander the Great, lying dormant and following the ways of the past."
+ BAC_EMPIRE:0 "Alexandrian Empire"
+ BAC_KINGDOM:0 "Alexandrian Kingdom"
+ BAC_PRINCEDOM:0 "Alexandrian Princedom"
+ BAC_DESPOT:0 "Despot"
+ BAC_AUTOKRATOR:0 "Autokrator"
+ BAC_BASILEUS:0 "Basileus"
+ BAC_DESPOTISSA:0 "Despotissa"
+ BAC_AUTOKRATEIRA:0 "Autokrateria"
+ BAC_BASILISSA:0 "Basilissa"
+ BAC_PRINCE:0 "Prince"
+ BAC_SYMBASILEUS:0 "Symbasileus"
+ BAC_PRINCESS:0 "Princess"
+ BAC_SYMBASILISSA:0 "Symbasilissa"

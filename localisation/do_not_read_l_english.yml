@@ -1,0 +1,10 @@
+﻿l_english:
+
+ #I asked you kindly not to read this. If you are reading this (zeph), I am deeply upset as you have betrayed my trust. Anyways, as a reward you can now read about my cuckoldry.
+ mod_common_events.1.t:0 "Royal Scandal!"
+ mod_common_events.1.d:0 "It would seem your consort has managed to find herself pregnant, despite having not visited her bedchamber in quite a while. This bastard child has caused issues for your succession and you must make a choice now." 
+ mod_common_events.1.a:0 "Woe is me..."
+ mod_common_events.1.b:0 "No bastard will sit upon my throne!"
+ mod_common_events.2.t:0 "Gifted Bastard"
+ mod_common_events.2.d:0 "The bastard child roaming around your court has excelled at literally everything possible. You're feeling confident you made the right choice now."
+ mod_common_events.2.a:0 "Good for him."
