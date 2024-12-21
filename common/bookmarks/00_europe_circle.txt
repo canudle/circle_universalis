@@ -1,0 +1,12 @@
+bookmark = {
+	name = "Mod_Europe"
+	desc = "Mod_Europe_Desc"
+	date = 1444.11.11
+	
+	center = 262
+	default = no
+	
+	country = CNE # Canoe / Marauders
+	country = MCG # McMuller / McPrussia
+	country = OWL # Owl / Owlschwitz
+	}

@@ -1,0 +1,14 @@
+bookmark = {
+	name = "Mod_Americas"
+	desc = "Mod_Americas_Desc"
+	date = 1444.11.11
+	
+	center = 898
+	default = yes
+	
+	country = DUC # Duck / California
+	country = CAC # Cactus / Mestriheimr (dont be pissed if i mispelled it, this is for me only)
+	#country = ZPS # Zeph / Whatever the fuck he's doing
+	#country = # Undead / idk what he's doing, waiting for the files
+
+	}

@@ -1,0 +1,12 @@
+bookmark = {
+	name = "Mod_Afrasia"
+	desc = "Mod_Afrasia_Desc"
+	date = 1444.11.11
+	
+	center = 1779
+	default = no
+	
+	country = OLJ # Oljo / Confrica
+	country = BAC # / Bactria
+	
+	}
