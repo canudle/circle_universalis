@@ -1,0 +1,34 @@
+﻿l_english:
+
+ # countries
+ OLJ: "Confrica"
+ OLJ_ADJ: "Confrican"
+ 
+ # oljo ideas
+ OLJ_ideas:0 "Confrican Ideas"
+ OLJ_ideas_start:0 "Confrican Traditions"
+ OLJ_ideas_bonus:0 "Confrican Ambition"
+ olj_idea_1:0 "Just Press The Happy Button"
+ olj_idea_1_desc:0 "We have spent some time cementing our hold over the region and have come to better understand the local customs, and which of them can be integrated into our nation to appease the masses."
+ olj_idea_2:0 "'New' Construction Techniques"
+ olj_idea_2_desc:0 "Our enemies of home may be savage beasts, but they understood one thing correctly. when constructing large fortifications, the bodies of our dead workers are excellent to supplement lack of materials!"
+ olj_idea_3:0 "Assimilation Protocols"
+ olj_idea_3_desc:0 "After extensive expansion of our new nation, we have realized the troubles that come with rapidly expanding our control. We require new policies for assimilating the natives of these lands."
+ olj_idea_4:0 "Our Religion is Better Than Yours"
+ olj_idea_4_desc:0 "We have assimilated the teachings of surrounding religions and found that people are more willing to become part of our lands."
+ olj_idea_5:0 "Work Camps"
+ olj_idea_5_desc:0 "An interesting new idea of placing dissidents in camps to further our production has shown great  promise in improving our economy."
+ olj_idea_6:0 "Glory in Death"
+ olj_idea_6_desc:0 "our armies have realized that to fight in our name is the most honorable thing they can do, so stand fearless against our enemies."
+ olj_idea_7:0 "Re-Education Camps"
+ olj_idea_7_desc:0 "the people in our work camps have shown willingness to learn our ways so they can return to society as reformed citizens."
+ 
+ # government stuff
+ ILLEGAL:0 "Illegal"
+ KON:0 "Kon"
+ KONCAPS:0 "KON"
+ THE_KON:0 "THE KON"
+ 
+ # decisions
+ oljo_blackmail_title: "Oljo Blackmail"
+ oljo_blackmail_desc: "Oljo has managed to blackmail the creator of the universe. Fuck you."
