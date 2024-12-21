@@ -1,0 +1,51 @@
+country_decisions = {
+
+	form_belgium = {
+		major = yes
+		potential = {
+				NOT = { exists = BEL }
+				NOT = { has_country_flag = formed_belgium_flag }
+				OR = {
+					primary_culture = flemish
+					primary_culture = wallonian
+				}
+			}
+		
+		allow = {
+			adm_tech = 10
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			NOT = { has_disaster = dutch_revolt_disaster }
+			owns_core_province = 92 
+			owns_core_province = 1865 
+			owns_core_province = 4769 
+			owns_core_province = 90 
+			owns_core_province = 1744
+			owns_core_province = 2974
+			}
+		
+		effect = {
+			add_prestige = 15
+			set_capital = 92	
+			change_tag = BEL
+			set_country_flag = formed_belgium_flag
+			picardy_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			wallonia_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
